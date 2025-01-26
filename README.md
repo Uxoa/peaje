@@ -49,12 +49,12 @@ src/test/java/io/aws/peaje/
    mvn test
    ```
 
-4. **Ejecutar el programa principal**:
-   Aún no se ha definido un archivo de ejecución principal, pero el comportamiento puede probarse mediante las clases y pruebas existentes.
-
 ---
 
 ## 📊 Diagrama UML
+<img width="516" alt="Captura de pantalla 2025-01-26 a las 20 25 05" src="https://github.com/user-attachments/assets/9032c55b-c4e4-4542-a12d-d98d82774b5e" />
+
+
 
 
 ---
