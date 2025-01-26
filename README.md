@@ -63,6 +63,8 @@ src/test/java/io/aws/peaje/
 Las pruebas unitarias se realizaron con **JUnit 5** y garantizan un mínimo del 70% de cobertura.
 
 ### Captura de la sección de pruebas:
+<img width="1189" alt="Captura de pantalla 2025-01-26 a las 20 32 58" src="https://github.com/user-attachments/assets/f9286518-1ec9-4355-96b2-8b4a432f3382" />
+
 
 ---
 
