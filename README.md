@@ -68,7 +68,7 @@ Las pruebas unitarias se realizaron con **JUnit 5** y garantizan un mínimo del 
 
 ---
 
-## 🛠 Tecnologías Utilizadasgit add .
+## 🛠 Tecnologías Utilizadas
 
 - **Java**: Lenguaje de programación.
 - **JUnit 5**: Framework de pruebas.
